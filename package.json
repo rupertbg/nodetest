@@ -1,0 +1,25 @@
+{
+  "name": "rupertbgtest",
+  "version": "1.0.1",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupertbg/nodetest.git"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rupertbg/nodetest/issues"
+  },
+  "homepage": "https://github.com/rupertbg/nodetest#readme",
+  "description": ""
+}
